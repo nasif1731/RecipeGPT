@@ -171,5 +171,3 @@ Here is an actual raw output from the validation set:
 
 **Bon Appétit!** 👨‍🍳  
 *Licensed under MIT.*
-
-Feel free to adjust any links, names, or specific details as necessary! This version should provide a vibrant and engaging overview of your project while maintaining professionalism.
